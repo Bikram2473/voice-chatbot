@@ -16,4 +16,5 @@ iv) _Fully functional voice-based interaction system._
 **_AI Model:_** _'gemini-2.0-flash_
 
 ## Screenshots
-![**_Chat UI Screenshot_**](https://github.com/Bikram2473/voice-chatbot/blob/d0c1c57687dbe4af8dcd46d1c36bf54b07630d33/UI.png)
+**_Chat UI Screenshot:_**</br>
+![**_image_alt_**](https://github.com/Bikram2473/voice-chatbot/blob/d0c1c57687dbe4af8dcd46d1c36bf54b07630d33/UI.png)
