@@ -5,4 +5,14 @@ AI, and replying **back with voice** — creating a fully hands-free conversatio
 
 ## Features
 
-i) 
+i) _Real-time voice input and output._
+ii) _Gemini-powered natural conversation._
+iii) _Seamless backend-frontend integration._
+iv) _Fully functional voice-based interaction system._
+
+## Tech Stack
+**_Frontend:_** _React.js (Vite), JavaScript_
+**_Backend:_** _Node.js, Express.js, Gemini API_
+**_AI Model:_** _'gemini-2.0-flash_
+
+## Screenshots
