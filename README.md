@@ -18,3 +18,10 @@ iv) _Fully functional voice-based interaction system._
 ## Screenshots
 **_Chat UI Screenshot:_**</br>
 ![**_image_alt_**](https://github.com/Bikram2473/voice-chatbot/blob/d0c1c57687dbe4af8dcd46d1c36bf54b07630d33/UI.png)
+
+## Installation & Setup
+
+i) **_Clone the Repository_**
+```bash
+git clone https://github.com/Bikram2473/voice-chatbot.git
+cd voice-chatbot
