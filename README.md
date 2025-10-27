@@ -25,5 +25,21 @@ i) **_Clone the Repository_**
 ```bash
 git clone https://github.com/Bikram2473/voice-chatbot.git
 cd voice-chatbot
+```
 
-fefef
+ii) **_Setup Backend_**
+```bash
+cd backend
+npm install
+
+
+_Create **.env** file inside **./backend**:_
+```bash
+GEMINI_API_KEY=your_api_key_here
+PORT=4000
+
+_Then start the backend:_
+```bash
+node index.js
+```
+
