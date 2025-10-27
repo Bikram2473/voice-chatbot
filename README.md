@@ -38,7 +38,7 @@ npm install
 GEMINI_API_KEY=your_api_key_here
 PORT=4000
 
-_Then start the backend:_
+# Then start the backend:
 ```bash
 node index.js
 ```
