@@ -33,7 +33,7 @@ cd backend
 npm install
 
 
-_Create **.env** file inside **./backend**:_
+# Create .env file inside ./backend:
 ```bash
 GEMINI_API_KEY=your_api_key_here
 PORT=4000
