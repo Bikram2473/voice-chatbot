@@ -32,7 +32,6 @@ ii) **_Setup Backend_**
 cd backend
 npm install
 
-
 # Create .env file inside ./backend:
 ```bash
 GEMINI_API_KEY=your_api_key_here
@@ -43,3 +42,9 @@ PORT=4000
 node index.js
 ```
 
+iii) **_Setup Frontend_**
+```bash
+cd ../frontend
+npm install
+npm run dev
+```
