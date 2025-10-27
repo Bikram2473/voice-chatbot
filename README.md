@@ -11,8 +11,8 @@ iii) _Seamless backend-frontend integration._
 iv) _Fully functional voice-based interaction system._
 
 ## Tech Stack
-**_Frontend:_** _React.js (Vite), JavaScript_
-**_Backend:_** _Node.js, Express.js, Gemini API_
+**_Frontend:_** _React.js (Vite), JavaScript_</br>
+**_Backend:_** _Node.js, Express.js, Gemini API_</br>
 **_AI Model:_** _'gemini-2.0-flash_
 
 ## Screenshots
