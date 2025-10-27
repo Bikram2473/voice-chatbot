@@ -1,0 +1,9 @@
+body { font-family: system-ui, Arial; background: #f3f4f6; margin: 0; padding: 20px }
+.app { max-width: 720px; margin: 0 auto }
+.chatbox { background: white; padding: 18px; border-radius: 12px; box-shadow: 0 6px 18px rgba(0,0,0,0.08) }
+.history { min-height: 220px; max-height: 480px; overflow: auto; margin-bottom: 12px }
+.user-msg { text-align: right; margin: 8px 0 }
+.bot-msg { text-align: left; margin: 8px 0 }
+.mic-btn { padding: 10px 14px; border-radius: 8px; border: none; cursor: pointer }
+.mic-btn.listening { background: #ef4444; color: white }
+.transcript { margin-left: 12px; display: inline-block }
