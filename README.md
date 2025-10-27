@@ -16,3 +16,4 @@ iv) _Fully functional voice-based interaction system._
 **_AI Model:_** _'gemini-2.0-flash_
 
 ## Screenshots
+![**_Chat UI Screenshot_**](./screenshots/UI.png)
